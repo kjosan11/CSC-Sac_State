@@ -1,9 +1,9 @@
 # CSC_Sac_State
 This repository includes the work I have done in my classes at Sac State.
 
-#Courses
+# Courses
 <hr>
-1. CSC 131
+<ul> CSC 131 </ul>
 2. CSC 133
 3. CSC 138
 4. CSC 139
