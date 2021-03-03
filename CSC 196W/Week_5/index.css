@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(235, 178, 216);
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.displaytimer {
+  font-size: 500%;
+  text-align: center;
+}
+.timerbutton {
+  text-align: center;
+  background-color: rgb(211, 120, 165);
+  margin: 20px;
+  border-radius: 25px;
+  font-size: 25px;
+}
+.timerbutton:hover {
+  background-color: rgb(179, 140, 159);
+}
